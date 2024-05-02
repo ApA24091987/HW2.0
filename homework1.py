@@ -4,5 +4,5 @@ sum=4+9
 print(9)
 print(4)
 print(sum)
-result=13+4*9
+result=sum+nu1*num2
 print(result)
